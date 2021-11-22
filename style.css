@@ -1,0 +1,14 @@
+body{
+    color: tan;
+    background-color: black;
+    text-align: center;
+    
+}
+h1{
+    font-family: cursive;
+  
+}
+div,
+p {
+    font-size: 25px;
+}
