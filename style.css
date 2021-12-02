@@ -13,6 +13,8 @@ a{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding: 25px;
+    
 }
 .header-right{
     display: flex;
@@ -23,8 +25,9 @@ a{
     display: flex;
     align-self: center;
     justify-content: center;
-    border: black solid 2px;
+    margin-top: -25px;
+    background-color: rgb(231, 205, 231);
 }
 .logo{
-    margin-left: 20px;
+    margin-left: 10px;
 }
