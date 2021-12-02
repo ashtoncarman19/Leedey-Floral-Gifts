@@ -1,7 +1,7 @@
 body{
     margin: 0;
     border: none;
-    background-color:
+    background-color: gold;
     color:
 }
 a{
@@ -21,10 +21,10 @@ a{
 }
 .header-bottom{
     display: flex;
+    align-self: center;
     justify-content: center;
+    border: black solid 2px;
 }
-
-
 .logo{
     margin-left: 20px;
 }
